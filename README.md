@@ -1,5 +1,5 @@
 # 💫I'm Abdelali👋
-<br>    🔭 I’m currently working on freelance projects<br>    🌱 I’m currently learning Node js<br>    👯 I’m looking to collaborate on freelance projects<br>
+<br>    🔭 I’m currently working on freelance projects<br>    🌱 I’m currently learning React Native<br>    👯 I’m looking to collaborate on freelance projects<br>
 
 <br>I'm Abdelali, a full-stack developer based in Morocco, and I'm super excited to share my GitHub portfolio with you all! 🚀 Dive in and explore a mix of web and mobile projects that I've poured my heart and soul into. From sleek user interfaces to powerful backend systems, I love bringing ideas to life through code. So come on in, take a look around, and let's push the boundaries of what's possible together! 🌟
 
